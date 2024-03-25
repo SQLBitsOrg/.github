@@ -1,12 +1,6 @@
 # SQLBits
 
-The largest Data Platform event comes to you this year in Tuesday 14th to Saturday 18th of March, 2023 at 
-
-International Convention Centre, 
-Celtic Manor, 
-Newport,
-Wales 
-NP18 1HQ
+The largest Microsoft Data Platform event in the world
 
 - 🏠 Find more at https://sqlbits.com
 - 🏠 Register to attend at https://sqlbits.io/register
